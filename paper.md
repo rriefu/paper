@@ -2,7 +2,8 @@ Title
 Abstract
 Contents
 
-table
+table1
+table2
 figure
 
 Reference
